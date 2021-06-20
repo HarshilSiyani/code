@@ -1,0 +1,432 @@
+89> java CakeStore
+***Name StudentNumber***
+***   Cake Store   ***
+Enter name of cake file: Cakes1.txt
+
+~~~ CAKE MENU ~~~
+1. Add Order
+2. Dispatch Vehicle
+3. Add Delivery Vehicle
+4. Add Delivery Driver to Vehicle
+5. Order Stock
+6. Display Stock
+7. Display Cakes
+8. Display Delivery Vehicle
+9. Display Total Number of Orders
+0. Quit
+Enter choice >> 6
+
+
+~~~ Stock levels ~~~
+Eggs :: 0
+Sugar :: 0 Grams
+Flour :: 0 Grams
+Milk :: 0 milliLitres
+
+~~~ CAKE MENU ~~~
+1. Add Order
+2. Dispatch Vehicle
+3. Add Delivery Vehicle
+4. Add Delivery Driver to Vehicle
+5. Order Stock
+6. Display Stock
+7. Display Cakes
+8. Display Delivery Vehicle
+9. Display Total Number of Orders
+0. Quit
+Enter choice >> 7
+
+~~~ Cakes ~~~
+Cake[ name: Dark Chocolate, eggs: 1, sugarGrams: 200, flourGrams: 50, milkMilliLitres: 50 ]
+Cake[ name: Butter, eggs: 1, sugarGrams: 180, flourGrams: 60, milkMilliLitres: 50 ]
+Cake[ name: Cheese, eggs: 0, sugarGrams: 300, flourGrams: 20, milkMilliLitres: 20 ]
+
+~~~ CAKE MENU ~~~
+1. Add Order
+2. Dispatch Vehicle
+3. Add Delivery Vehicle
+4. Add Delivery Driver to Vehicle
+5. Order Stock
+6. Display Stock
+7. Display Cakes
+8. Display Delivery Vehicle
+9. Display Total Number of Orders
+0. Quit
+Enter choice >> 8
+
+No delivery vehicle
+
+~~~ CAKE MENU ~~~
+1. Add Order
+2. Dispatch Vehicle
+3. Add Delivery Vehicle
+4. Add Delivery Driver to Vehicle
+5. Order Stock
+6. Display Stock
+7. Display Cakes
+8. Display Delivery Vehicle
+9. Display Total Number of Orders
+0. Quit
+Enter choice >> 9
+
+~~~ Total Number of Orders ~~~
+0
+
+~~~ CAKE MENU ~~~
+1. Add Order
+2. Dispatch Vehicle
+3. Add Delivery Vehicle
+4. Add Delivery Driver to Vehicle
+5. Order Stock
+6. Display Stock
+7. Display Cakes
+8. Display Delivery Vehicle
+9. Display Total Number of Orders
+0. Quit
+Enter choice >> 1
+
+No delivery vehicle
+
+~~~ CAKE MENU ~~~
+1. Add Order
+2. Dispatch Vehicle
+3. Add Delivery Vehicle
+4. Add Delivery Driver to Vehicle
+5. Order Stock
+6. Display Stock
+7. Display Cakes
+8. Display Delivery Vehicle
+9. Display Total Number of Orders
+0. Quit
+Enter choice >> 2
+
+No delivery vehicle
+
+~~~ CAKE MENU ~~~
+1. Add Order
+2. Dispatch Vehicle
+3. Add Delivery Vehicle
+4. Add Delivery Driver to Vehicle
+5. Order Stock
+6. Display Stock
+7. Display Cakes
+8. Display Delivery Vehicle
+9. Display Total Number of Orders
+0. Quit
+Enter choice >> 5
+
+
+~~~ Stock levels ~~~
+Eggs :: 0
+Sugar :: 0 Grams
+Flour :: 0 Grams
+Milk :: 0 milliLitres
+
+~~~ Order stock ~~~
+Eggs: 3
+Sugar (grams): 500
+Flour (grams): 300
+Milk (milliiLitres): 355
+
+~~~ CAKE MENU ~~~
+1. Add Order
+2. Dispatch Vehicle
+3. Add Delivery Vehicle
+4. Add Delivery Driver to Vehicle
+5. Order Stock
+6. Display Stock
+7. Display Cakes
+8. Display Delivery Vehicle
+9. Display Total Number of Orders
+0. Quit
+Enter choice >> 6
+
+~~~ Stock levels ~~~
+Eggs :: 3
+Sugar :: 500 Grams
+Flour :: 300 Grams
+Milk :: 355 milliLitres
+
+~~~ CAKE MENU ~~~
+1. Add Order
+2. Dispatch Vehicle
+3. Add Delivery Vehicle
+4. Add Delivery Driver to Vehicle
+5. Order Stock
+6. Display Stock
+7. Display Cakes
+8. Display Delivery Vehicle
+9. Display Total Number of Orders
+0. Quit
+Enter choice >> 3
+
+Enter the vehicle id: 56
+Delivery vehicle 56 added.
+
+~~~ CAKE MENU ~~~
+1. Add Order
+2. Dispatch Vehicle
+3. Add Delivery Vehicle
+4. Add Delivery Driver to Vehicle
+5. Order Stock
+6. Display Stock
+7. Display Cakes
+8. Display Delivery Vehicle
+9. Display Total Number of Orders
+0. Quit
+Enter choice >> 8
+
+
+~~~ DeliveryVehicle ~~~
+DeliveryVehicle[ vehicleID: 56
+, driver: No Driver
+, order1: No Order
+, order2: No Order
+, order3: No Order
+, numOrdersDelivered: 0 ]
+
+~~~ CAKE MENU ~~~
+1. Add Order
+2. Dispatch Vehicle
+3. Add Delivery Vehicle
+4. Add Delivery Driver to Vehicle
+5. Order Stock
+6. Display Stock
+7. Display Cakes
+8. Display Delivery Vehicle
+9. Display Total Number of Orders
+0. Quit
+Enter choice >> 2
+
+Delivery vehicle has no driver
+
+~~~ CAKE MENU ~~~
+1. Add Order
+2. Dispatch Vehicle
+3. Add Delivery Vehicle
+4. Add Delivery Driver to Vehicle
+5. Order Stock
+6. Display Stock
+7. Display Cakes
+8. Display Delivery Vehicle
+9. Display Total Number of Orders
+0. Quit
+Enter choice >>1
+
+Cakes avaliable
+Cake 1: Dark Chocolate
+Cake 2: Butter
+Cake 3: Cheese
+Choice>>2
+Enter order address:
+1123 ABC st
+Order added
+
+~~~ CAKE MENU ~~~
+1. Add Order
+2. Dispatch Vehicle
+3. Add Delivery Vehicle
+4. Add Delivery Driver to Vehicle
+5. Order Stock
+6. Display Stock
+7. Display Cakes
+8. Display Delivery Vehicle
+9. Display Total Number of Orders
+0. Quit
+Enter choice >> 6
+
+~~~ Stock levels ~~~
+Eggs :: 2
+Sugar :: 320 Grams
+Flour :: 240 Grams
+Milk :: 305 milliLitres
+
+~~~ CAKE MENU ~~~
+1. Add Order
+2. Dispatch Vehicle
+3. Add Delivery Vehicle
+4. Add Delivery Driver to Vehicle
+5. Order Stock
+6. Display Stock
+7. Display Cakes
+8. Display Delivery Vehicle
+9. Display Total Number of Orders
+0. Quit
+Enter choice >> 1
+
+Cakes avaliable
+Cake 1: Dark Chocolate
+Cake 2: Butter
+Cake 3: Cheese
+Choice>>3
+Enter order address:
+77 yellow crt
+Order added
+
+~~~ CAKE MENU ~~~
+1. Add Order
+2. Dispatch Vehicle
+3. Add Delivery Vehicle
+4. Add Delivery Driver to Vehicle
+5. Order Stock
+6. Display Stock
+7. Display Cakes
+8. Display Delivery Vehicle
+9. Display Total Number of Orders
+0. Quit
+Enter choice >> 6
+
+~~~ Stock levels ~~~
+Eggs :: 2
+Sugar :: 20 Grams
+Flour :: 220 Grams
+Milk :: 285 milliLitres
+
+~~~ CAKE MENU ~~~
+1. Add Order
+2. Dispatch Vehicle
+3. Add Delivery Vehicle
+4. Add Delivery Driver to Vehicle
+5. Order Stock
+6. Display Stock
+7. Display Cakes
+8. Display Delivery Vehicle
+9. Display Total Number of Orders
+0. Quit
+Enter choice >> 8
+
+~~~ DeliveryVehicle ~~~
+DeliveryVehicle[ vehicleID: 56
+, driver: No Driver
+, order1: Order[ orderNumber: 1, orderAddress: 1123 ABC st, numberOfCakes: 1,
+cake: Cake[ name: Butter, eggs: 1, sugarGrams: 180, flourGrams: 60, milkMilliLitres: 50 ] ]
+, order2: Order[ orderNumber: 2, orderAddress: 77 yellow crt, numberOfCakes: 1,
+cake: Cake[ name: Cheese, eggs: 0, sugarGrams: 300, flourGrams: 20, milkMilliLitres: 20 ] ]
+, order3: No Order
+, numOrdersDelivered: 0 ]
+
+~~~ CAKE MENU ~~~
+1. Add Order
+2. Dispatch Vehicle
+3. Add Delivery Vehicle
+4. Add Delivery Driver to Vehicle
+5. Order Stock
+6. Display Stock
+7. Display Cakes
+8. Display Delivery Vehicle
+9. Display Total Number of Orders
+0. Quit
+Enter choice >> 1
+
+Cakes avaliable
+Cake 1: Dark Chocolate
+Cake 2: Butter
+Cake 3: Cheese
+Choice>>3
+Not enough ingredients avaliable for this cake
+
+~~~ CAKE MENU ~~~
+1. Add Order
+2. Dispatch Vehicle
+3. Add Delivery Vehicle
+4. Add Delivery Driver to Vehicle
+5. Order Stock
+6. Display Stock
+7. Display Cakes
+8. Display Delivery Vehicle
+9. Display Total Number of Orders
+0. Quit
+Enter choice >> 9
+
+
+~~~ Total Number of Orders ~~~
+2
+
+~~~ CAKE MENU ~~~
+1. Add Order
+2. Dispatch Vehicle
+3. Add Delivery Vehicle
+4. Add Delivery Driver to Vehicle
+5. Order Stock
+6. Display Stock
+7. Display Cakes
+8. Display Delivery Vehicle
+9. Display Total Number of Orders
+0. Quit
+Enter choice >> 2
+
+Delivery vehicle has no driver
+
+~~~ CAKE MENU ~~~
+1. Add Order
+2. Dispatch Vehicle
+3. Add Delivery Vehicle
+4. Add Delivery Driver to Vehicle
+5. Order Stock
+6. Display Stock
+7. Display Cakes
+8. Display Delivery Vehicle
+9. Display Total Number of Orders
+0. Quit
+Enter choice >> 4
+
+Enter the drivers name:
+Sally
+Driver Sally added to delivery vehicle 56
+
+~~~ CAKE MENU ~~~
+1. Add Order
+2. Dispatch Vehicle
+3. Add Delivery Vehicle
+4. Add Delivery Driver to Vehicle
+5. Order Stock
+6. Display Stock
+7. Display Cakes
+8. Display Delivery Vehicle
+9. Display Total Number of Orders
+0. Quit
+Enter choice >> 2
+
+Delivery details:
+DeliveryVehicle[ vehicleID: 56
+, driver: Driver[ driverName: Sally ]
+, order1: Order[ orderNumber: 1, orderAddress: 1123 ABC st, numberOfCakes: 1,
+cake: Cake[ name: Butter, eggs: 1, sugarGrams: 180, flourGrams: 60, milkMilliLitres: 50 ] ]
+, order2: Order[ orderNumber: 2, orderAddress: 77 yellow crt, numberOfCakes: 1,
+cake: Cake[ name: Cheese, eggs: 0, sugarGrams: 300, flourGrams: 20, milkMilliLitres: 20 ] ]
+, order3: No Order
+, numOrdersDelivered: 0 ]
+
+~~~ CAKE MENU ~~~
+1. Add Order
+2. Dispatch Vehicle
+3. Add Delivery Vehicle
+4. Add Delivery Driver to Vehicle
+5. Order Stock
+6. Display Stock
+7. Display Cakes
+8. Display Delivery Vehicle
+9. Display Total Number of Orders
+0. Quit
+Enter choice >> 8
+
+~~~ DeliveryVehicle ~~~
+DeliveryVehicle[ vehicleID: 56
+, driver: Driver[ driverName: Sally ]
+, order1: No Order
+, order2: No Order
+, order3: No Order
+, numOrdersDelivered: 2 ]
+
+~~~ CAKE MENU ~~~
+1. Add Order
+2. Dispatch Vehicle
+3. Add Delivery Vehicle
+4. Add Delivery Driver to Vehicle
+5. Order Stock
+6. Display Stock
+7. Display Cakes
+8. Display Delivery Vehicle
+9. Display Total Number of Orders
+0. Quit
+Enter choice >> 0

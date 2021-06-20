@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "538904621172",
+    "firebase_url": "https://intern-gamification.firebaseio.com",
+    "project_id": "intern-gamification",
+    "storage_bucket": "intern-gamification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538904621172:android:f070f8a4ad98dba7156121",
+        "android_client_info": {
+          "package_name": "com.google.mygame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538904621172-8vivt6mun9dotbn4pdnq9qrrkuo1kp2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.mygame",
+            "certificate_hash": "56c77bfffbdf529eae18cf3d16716a20360e6482"
+          }
+        },
+        {
+          "client_id": "538904621172-4g5rdra5olj7mf4kevomcjnn5ifbvm0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv0lfEfWHVNqBU2ndAnYoZvW8hGunh3sI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538904621172-4g5rdra5olj7mf4kevomcjnn5ifbvm0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
